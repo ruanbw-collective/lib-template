@@ -10,9 +10,9 @@
 		"defu": "^6.1.4"
 	},
 	"devDependencies": {
-		"@types/node": "^22.13.10",
-		"typescript": "^5.8.2",
-		"unbuild": "^3.0.1",
+		"@types/node": "^22.15.2",
+		"typescript": "^5.8.3",
+		"unbuild": "^3.5.0",
 		"vitest": "^2.1.9"
 	},
 	"files": [
