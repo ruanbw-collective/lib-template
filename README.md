@@ -1,6 +1,6 @@
-# JSVMP
+# lib-template
 
-- node >= v20
+- node >= v22
 
 ## 开始
 
